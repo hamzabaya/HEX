@@ -1,0 +1,53 @@
++-------------------------------------------------
+| Compilation
++-------------------------------------------------
+
+Au niveau le plus haut
+
+    Compilation, produit l'exécutable ./hex 
+    uniquement
+        $ make
+        
+    Détruit les fichiers .o générés lors de la 
+    création de l'exécutable
+    	$ make clean
+    	
+    Détruit tous les fichiers générés lors de la 
+    création de l'exécutable, exécutable compris
+    	$ make cleanall
+    	
+    Docs : production des docs sous ./docs
+        $ make docs
+        
+    Construit le fichier exécutable et garde les 
+    .o
+    	$ make keep
+    	
+    Reconstruit entièrement l'exécutable
+    	$ make rebuild
+
+    Tests : compile et exécute les tests sous
+    ./tests (ne marche pas actuellement)
+        $ make test
+
+
+
++-------------------------------------------------
+| Utilisation
++-------------------------------------------------
+
+Au niveau le plus haut
+
+    Mode en ligne, serveur sur le port pppp
+        $ ./hex -s pppp
+
+    Mode en ligne, client se connectant au serveur 
+    hh.hh.hh.hh sur le port pppp 
+    (IP locale: 127.0.0.1)
+        $ ./hex -c hh.hh.hh.hh:pppp
+
+    Mode local, jouer localement en tant que bleu 
+        $ ./hex -l bleu
+
+    Mode local, jouer localement en tant que rouge
+        $ ./hex -l rouge
