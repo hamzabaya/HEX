@@ -1,9 +1,4 @@
-/**
- * \file ai.test.c
- * \brief Tests des fonctions de ai.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
+
 
 // -------------------------Libraries-------------------------------------------
 
