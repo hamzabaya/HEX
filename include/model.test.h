@@ -1,9 +1,4 @@
-/**
- * \file model.test.h
- * \brief Fichier de test de model.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
+
 #ifndef MODEL_TEST_H
 #define MODEL_TEST_H
 
