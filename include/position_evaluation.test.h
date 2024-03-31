@@ -1,8 +1,6 @@
 /**
  * \file position_evaluation.test.h
  * \brief Fichier de test de position_evaluation.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
 */
 #ifndef POSITION_EVALUATION_TEST_H
 #define POSITION_EVALUATION_TEST_H
