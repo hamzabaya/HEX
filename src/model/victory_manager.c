@@ -1,10 +1,4 @@
-/**
- * \file victory_manager.c
- * \brief Fichier responsable de la gestion de la victoire.
- * \author simon.antropius@uha.fr
- * \author romain.bomba@uha.fr
- * \version 0.1
- *
+/*
  * Ce fichier contient des fonctions permettant de vérifier la victoire.
  */
 
