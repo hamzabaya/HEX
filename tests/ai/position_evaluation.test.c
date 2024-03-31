@@ -1,10 +1,3 @@
-/**
- * \file position_evaluation.test.c
- * \brief Tests des fonctions de position_evaluation.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
