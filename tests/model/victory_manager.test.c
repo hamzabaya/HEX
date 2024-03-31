@@ -1,10 +1,3 @@
-/**
- * \file victory_manager.test.c
- * \brief Tests des fonctions de victory_manager.h
- * \author simon.antropius@uha.fr
- * \version 0.1
-*/
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
