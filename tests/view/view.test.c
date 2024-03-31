@@ -1,10 +1,3 @@
-/**
- * \file view.test.c
- * \brief Tests des fonctions de view.c
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
