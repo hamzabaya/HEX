@@ -1,9 +1,4 @@
-/**
- * \file controller.c
- * \brief Controlleur du jeu.
- * \author simon.antropius@uha.fr
- * \version 0.1
- *
+/*
  * Controlleur du jeu. C'est lui qui définit le déroulement d'un tour de jeu.   
  * Il est aidé par les modules view et model, auxquels il fait appel. Il gère 
  * également la partie réseau en faisant appel au module réseau.
