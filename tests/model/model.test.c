@@ -1,10 +1,3 @@
-/**
- * \file model.test.c
- * \brief Tests des fonctions de model.h
- * \author simon.antropius@uha.fr
- * \version 0.1
-*/
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
