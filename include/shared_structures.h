@@ -1,10 +1,4 @@
-/**
- * \file shared_structures.h
- * \brief Fichier contenant les structures partagées par la plupart des  
- * fichiers.
- * \author simon.antropius@uha.fr
- * \version 0.1
- *
+/*
  * Fichier contenant les structures utilisées par la plupart des 
  * fichiers, qui doivent être partagées à tous.
  */
