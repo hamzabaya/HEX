@@ -1,9 +1,4 @@
-/**
- * \file message_display.test.h
- * \brief Fichier de test de message_display.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
+
 #ifndef MESSAGE_DISPLAY_TEST_H
 #define MESSAGE_DISPLAY_TEST_H
 
