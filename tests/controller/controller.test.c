@@ -1,10 +1,3 @@
-/**
- * \file controller.test.c
- * \brief Tests des fonctions de controller.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
