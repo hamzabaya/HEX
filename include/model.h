@@ -1,9 +1,4 @@
-/**
- * \file model.h
- * \brief Fichier responsable de la logique du jeu.
- * \author simon.antropius@uha.fr
- * \version 0.1
- *
+/*
  * Ce fichier contient des fonctions permettant d'effectuer des actions simples 
  * sur le jeu comme initialiser le plateau, vérifier des données, placer un   
  * coup etc...
