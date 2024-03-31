@@ -1,10 +1,4 @@
-/**
- * \file ai.c
- * \brief Fichier contenant l'IA du jeu.
- * \author simon.antropius@uha.fr
- * \author hamza.baya@uha.fr
- * \version 0.1
- *
+/*
  * Ce fichier contient la fonction permettant de trouver le meilleur coup 
  * possible selon l'IA.
  */
