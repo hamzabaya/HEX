@@ -1,10 +1,4 @@
-/**
- * \file constants.h
- * \brief Fichier contenant les constantes du jeu.
- * \author simon.antropius@uha.fr
- * \author louis.augey@uha.fr
- * \version 0.1
- *
+/*
  * Fichier contenant les constantes du jeu.
  */
 
