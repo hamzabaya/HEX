@@ -1,10 +1,4 @@
-/**
- * \file client.h
- * \brief Fichier responsable de la partie client du réseau.
- * \author simon.antropius@uha.fr
- * \author louis.augey@uha.fr
- * \version 0.1
- *
+/*
  * Ce fichier contient toutes les fonctions nécéssaires à la connexion au 
  * réseau côté client.
  */
