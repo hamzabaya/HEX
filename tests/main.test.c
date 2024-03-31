@@ -1,10 +1,3 @@
-/**
- * \file main.test.c
- * \brief Exécute les tests de toutes les fichiers
- * \author nicolas.bernardi@uha.fr
- * \version 1.0
- */
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
