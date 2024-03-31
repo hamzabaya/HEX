@@ -1,9 +1,4 @@
-/**
- * \file view.c
- * \brief Fichier responsable de l'interaction avec l'utilisateur.
- * \author simon.antropius@uha.fr
- * \version 0.1
- *
+/*
  * Ce fichier contient des fonctions permettant de demander des informations à 
  * l'utilisateur et d'afficher les données de jeu.
  */
