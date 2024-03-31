@@ -1,10 +1,4 @@
-/**
- * \file position_evaluation.c
- * \brief Fichier contenant la fonction d'évaluation de l'IA.
- * \author simon.antropius@uha.fr
- * \author hamza.baya@uha.fr
- * \version 0.1
- *
+/*
  * Ce fichier contient la fonction permettant d'évaluer une position de jeu 
  * donnée selon des critères subjectifs.
  */
