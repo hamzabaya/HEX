@@ -1,9 +1,4 @@
-/**
- * \file main.c
- * \brief Fichier principal jeu de HEX.
- * \author simon.antropius@uha.fr
- * \version 0.1
- *
+/*
  * Fichier principal du jeu. Appelez main pour le lancer.
  * Le jeu s'articule autour d'une architecture MVC (Model-Vue-Controller) à 
  * laquelle on a ajouté une partie réseau. La vue contrôle l'intéraction avec 
