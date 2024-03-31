@@ -1,10 +1,3 @@
-/**
- * \file message_display.test.c
- * \brief Tests des fonctions de message_display.h
- * \author nicolas.bernardi@uha.fr
- * \version 0.1
-*/
-
 // -------------------------Libraries-------------------------------------------
 
 // ----- Standard libraries
